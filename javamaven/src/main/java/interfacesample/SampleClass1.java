@@ -10,7 +10,7 @@ public class SampleClass1 implements SampleInterface{
 		//reference creation
 		SampleInterface obj = new SampleClass1();
 		obj.sum();
-		SampleInterface obj2 = new Sam
+		SampleInterface obj2 = new SampleClass1();
 	}
 
 	@Override
